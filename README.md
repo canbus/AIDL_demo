@@ -1,5 +1,6 @@
 # AIDL_demo
 AIDL的简易demo
+
 一、新建一个AIDL 服务端
 1.AS中new一个AIDL文件
 package com.bao.aidl_demo;
